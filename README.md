@@ -1,3 +1,1 @@
-Teste 1
-
-Teste 2
+Este repositório contém atividades que foram realizadas como aprendizagem desenvolvidas por "João Fabris" durante meu curso na Trybe
