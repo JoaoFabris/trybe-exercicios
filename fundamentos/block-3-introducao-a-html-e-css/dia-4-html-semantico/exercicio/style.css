@@ -2,3 +2,6 @@
     display: inline-block;
     width: 200px;
 }
+table, td, tr{
+    border: 1px solid;
+}
